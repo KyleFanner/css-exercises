@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+#one {
+    background-color: #000;
+    color: #fff;
+}
+
+#two {
+    background-color: #fe0;
+}
+
+.custom-text {
+    font-family: Helvetica, "Times New Roman", serif;
+    font-size: 28px;
+}
